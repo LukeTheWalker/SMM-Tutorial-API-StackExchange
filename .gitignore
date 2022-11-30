@@ -1,5 +1,6 @@
 *.png
 *.jpg
+!main.png
 *.json
 .ipynb_checkpoints
 .DS_Store
