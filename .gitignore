@@ -1,5 +1,5 @@
-*.png
-*.jpg
+*.og.
+*.og.*
 !main.png
 *.json
 .ipynb_checkpoints
